@@ -1,5 +1,4 @@
-notifications:
-  email: falselanguage: java
+language: java
 sudo: false
 install: true
 addons:
