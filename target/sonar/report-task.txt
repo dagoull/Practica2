@@ -1,0 +1,6 @@
+organization=dcastell
+projectKey=RTVRPTW_WebService:RTVRPTW_WebService
+serverUrl=https://sonarqube.com
+dashboardUrl=https://sonarqube.com/dashboard/index/RTVRPTW_WebService:RTVRPTW_WebService
+ceTaskId=AVrwcKa4rtkfVbksYd0_
+ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVrwcKa4rtkfVbksYd0_
